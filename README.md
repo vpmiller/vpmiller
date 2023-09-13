@@ -1,6 +1,6 @@
 Hi and welcome!
 
-I'm Vitor 👋, a Brazilian currently residing in Berlin. I've recently completed an intensive data analysis course at Le Wagon, and I'm currently engaged in an independent project. I am actively seeking opportunities to apply my data analysis skills and expertise.
+I'm Vitor 👋, a Brazilian currently residing in Berlin. I've recently completed an intensive data analytics course at Le Wagon, and I'm currently engaged in an independent project. I am actively seeking opportunities to apply my data analysis skills and expertise.
 
 Top technical highlight:
 
