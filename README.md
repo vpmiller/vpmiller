@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vitor</h1>
-<h3 align="center">A brazilian Data Analyst living in Berlin</h3>
+<h1 align="left">Hi 👋, I'm Vitor</h1>
+<h3 align="left">A brazilian Data Analyst living in Berlin</h3>
 
 - 🔭 I’m currently seeking for **a Data Analyst position**
 
