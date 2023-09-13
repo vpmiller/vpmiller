@@ -1,7 +1,15 @@
-<h1 align="left">Hi 👋, I'm Vitor</h1>
+Hi and welcome!
 
-Welcome!
-I'm a Brazilian Data Analyst living in Berlin and a recent graduate of the intensive Data Analysis bootcamp at Le Wagon. As I continue to work on a solo project, I am now actively pursuing opportunities to leverage my skills and expertise.
+I'm Vitor 👋, a Brazilian currently residing in Berlin. I've recently completed an intensive data analysis course at Le Wagon, and I'm currently engaged in an independent project. I am actively seeking opportunities to apply my data analysis skills and expertise.
+
+Top technical highlight:
+
+⚡ => Worked on a project in a 3-member team, utilizing open German demographic data and the outcomes of the last two federal elections. Used diverse tools to extract fresh insights and conduct comprehensive analysis, building an end-to-end pipeline from data to visualization. (SQL, Python Power BI, Looker)
+
+Main studies:
+* Le Wagon 2022 => Bootcamp in Data Analytics
+* FGV - Getulio Vargas Foundation 2014 => Master in Business Administration
+* UNESP - São Paulo State University 2008 => Bachelor Civil Engineering
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
